@@ -1,44 +1,44 @@
-url: "https://nelagrahek.github.io"
-baseurl: ""
-
-# Site settings
+# site settings
 title: Nela Grahek
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+subtitle: by HTML5 UP
+email: nelagrahek@gmail.com
+description: Porodični psihoterapeut pod supervizijom Up<br /> 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nelagrahek.github.io"
+author:
+street_address: 1234 Somewhere Road
+city: Beograd
+state: TN
+zip_code: 55555
+country: Srbija
 
 
-# Team names, titles and social links
-people:
-- name: Nela Grahek
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
 
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/andrewbanchich
+  GitLab:
+  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Twitter: https://twitter.com/andrewbanchich
+  Facebook:
+  Slack:
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Build settings
+# build settings
 markdown: kramdown
-permalink: pretty
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
