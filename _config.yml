@@ -1,15 +1,12 @@
 # site settings
 title: Nela Grahek
-subtitle: by HTML5 UP
+subtitle: 
 email: nelagrahek@gmail.com
-description: Porodični psihoterapeut pod supervizijom Up<br /> 
+description: Porodični psihoterapeut pod supervizijom <br /> 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nelagrahek.github.io"
 author:
-street_address: 1234 Somewhere Road
 city: Beograd
-state: TN
-zip_code: 55555
 country: Srbija
 
 
