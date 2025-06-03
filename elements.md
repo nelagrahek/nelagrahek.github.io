@@ -12,11 +12,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">About me</h2>
 <p>Family counselor and a systemic psychotherapist under the supervision of the Association of Systemic Therapists (AST). Before focusing on family psychotherapy, she graduated from the Department of Sociology, Faculty of Philosophy in Belgrade.
 
 The systemic approach explores family and social frameworks in which we grew up in. Considering the context in which the individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts.
