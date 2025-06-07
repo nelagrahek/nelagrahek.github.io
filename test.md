@@ -2,7 +2,7 @@
 title: Test
 layout: page
 image: assets/images/pic01.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->
