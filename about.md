@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-image: assets/images/pic17.jpg
+image: /assets/images/pic17.jpg
 nav-menu: false
-show_tile: true
 ---
 
 <!-- Main -->
