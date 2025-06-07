@@ -1,21 +1,14 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: 
+subtitle: 
 email: systemicounseling@gmail.com
-<<<<<<< HEAD
 description: Systemic counseling and art therapy <br /> 
-=======
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
->>>>>>> parent of a295553 (reverting back to nela's files, but keeping all the original folders)
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nelagrahek.github.io"
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+city: 
+country: 
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -26,12 +19,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: 
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus: 
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: 
+  Twitter: 
   Facebook:
   Slack:
 
