@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout:
+layout: page
 description: 
 image: assets/images/pic15.jpg
 nav-menu: true
