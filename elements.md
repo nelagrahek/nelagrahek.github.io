@@ -2,7 +2,7 @@
 layout: page
 title: About
 image: assets/images/pic17.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
