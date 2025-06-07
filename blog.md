@@ -1,8 +1,8 @@
 ---
 title: Blog
 layout: page
-description: Blog
-image: assets/images/pic11.jpg
+description:
+image: /assets/images/pic11.jpg
 nav-menu: true
 ---
 
