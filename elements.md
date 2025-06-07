@@ -22,4 +22,4 @@ nav-menu: true
 As I completed education in expressive arts therapy (EARTH), I also use the principles of Gestalt and Art psychotherapy, focusing on feelings and reactions that the client brings with him to the space and following what is happening in the "here and now". Through exploring family dynamics, empathy and creativity in the therapeutic process, we learn to achieve authentic contact with ourselves and others.
 
 <!-- Image -->
-<img src="/assets/images/nelapic.jpg" alt="About me photo" style="max-width: 100%; height: auto; margin-top: 2rem;" />
+<img src="/assets/images/nelapic.jpeg" alt="About me photo" style="max-width: 100%; height: auto; margin-top: 2rem;" />
