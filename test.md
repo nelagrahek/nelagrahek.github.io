@@ -1,7 +1,6 @@
 ---
 title: Test
 layout: page
-title: Test page
 image: assets/images/pic01.jpg
 nav-menu: false
 ---
