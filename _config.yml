@@ -3,7 +3,7 @@ title:
 subtitle: 
 email: systemicounseling@gmail.com
 description: Systemic counseling and art therapy <br /> 
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nelagrahek.github.io"
 author:
 city: 
