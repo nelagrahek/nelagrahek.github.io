@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Schedule a session
 layout: page
 image: assets/images/pic01.jpg
 nav-menu: true
@@ -16,4 +16,4 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Some text for the test page</p>
+<p>Text about psychotherapy sessions and how to schedule them. </p>
