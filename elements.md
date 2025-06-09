@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: assets/images/pic01.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
@@ -18,5 +18,3 @@ nav-menu: true
 <!-- Content -->
 <p>Family counselor and expressive arts therapy practitioner 
 
-</p>The systemic approach explores family and social frameworks in which we grow up. By considering the context in which an individual lives, I strive to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts.
-As I completed education in expressive arts therapy (EARTH), I also use the principles of Gestalt and Art psychotherapy, focusing on feelings and reactions that clients bring to the therapeutic space, while staying attuned to the "here and now". Through exploring family dynamics, empathy and creativity, therapy becomes a process of learning how to establish authentic connections contact-both with ourselves and others.
