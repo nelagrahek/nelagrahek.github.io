@@ -16,4 +16,4 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>If you are interested in exploring the benefits of expressive arts therapy and counseling, I would be glad to work with you. Feel free to contact me via email if you have any questions or would like to arrange a session.</p>
+<p>If you are interested in exploring the benefits of expressive arts therapy and counseling, I would be glad to work with you. Feel free to contact me via email if you have any questions or would like to arrange a session!</p>
