@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <p>Family counselor and expressive arts therapy practitioner</p>
 
-<p>Hi! I am Nela Grahek, a family counselor working from an integrative perspective, that draws upon various modalities to support people navigating thir emotional challenges. The systemic approach I use, explores family and social frameworks that shape us. Considering the context in which an individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts. 
+<p>Hi! I am Nela Grahek, a family counselor working from an integrative perspective, that draws upon various modalities to support people navigating their emotional challenges. The systemic approach I use, explores family and social frameworks that shape us. Considering the context in which an individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts. 
 In addition to the systemic approach, I have found my place in creative therapeutic methods that incorporate metaphors and visual arts. I completed my education in Expressive Arts Therapy (EARTH) as a certified practitioner and I offer workshops and individual sessions that invite people to explore their own creativity and work through emotional or creative blockages. Through exploring family dynamics, empathy and creativity, we learn to establish authentic contact with ourselves and others. Methods of expressive arts therapy offer a sense of freedom that allows me to engage both my own creativity and support others in accessing theirs. It provides an alternative to cognitively focused approaches, supporting the release of creative blocks and encouraging free expression and embodied insight.
 
 </p>
