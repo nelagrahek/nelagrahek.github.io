@@ -1,7 +1,7 @@
 ---
 title: Expressive Arts Therapy
 layout: page
-image: /assets/images/pic17.jpg
+image: /assets/images/pic17.jpeg
 nav-menu: true
 ---
 
