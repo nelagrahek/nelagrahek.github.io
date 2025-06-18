@@ -18,9 +18,8 @@ nav-menu: true
 <!-- Content -->
 <p>Family counselor and expressive arts therapy practitioner</p>
 
-<p>Hi! I am Nela Grahek, a family counselor working from an integrative perspective, that draws upon various modalities to support people navigating their emotional challenges. The systemic approach I use, explores family and social frameworks that shape us. Considering the context in which an individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts. 
-In addition to the systemic approach, I have found my place in creative therapeutic methods that incorporate metaphors and visual arts. I completed my education in Expressive Arts Therapy (EARTH) as a certified practitioner and offer workshops and individual sessions that invite people to explore their own creativity and work through emotional or creative blockages. Methods of expressive arts therapy offer a sense of freedom that allows me to engage both my own creativity and support others in accessing theirs. Through exploring family dynamics, empathy and creativity, we learn to establish authentic contact with ourselves and others. 
-
+<p>Hi! I am Nela Grahek, a family counselor working from an integrative perspective, that draws upon various modalities to support people navigating emotional challenges. The systemic approach I use, explores family and social frameworks that shape us. Considering the context in which an individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts. 
+In addition to the systemic approach, I have found my place in creative therapeutic methods that incorporate metaphors and visual arts. I completed my education in Expressive Arts Therapy (EARTH) as a certified practitioner and offer workshops and individual sessions that invite people to explore their own creativity and work through emotional or creative blockages. Methods of expressive arts therapy offer a sense of freedom that allows me to engage both my own creativity and support others in accessing theirs. For me, the arts have been a source of emotional insight and inner strength. Whether through painting, storytelling or movement — they’ve offered a way to make sense of complex feelings and heal old emotional wounds. 
 </p>
 
 <!-- Image -->
