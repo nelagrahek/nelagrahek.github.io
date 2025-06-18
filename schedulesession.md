@@ -1,7 +1,7 @@
 ---
 title: Schedule a session
 layout: page
-image: assets/slike/pic17.jpg
+image: assets/slike/pic11.jpg
 nav-menu: true
 ---
 
