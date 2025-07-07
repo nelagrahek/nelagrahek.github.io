@@ -1,7 +1,7 @@
 ---
 title: Pristup
 layout: page
-image: assets/slike/pic11.jpg
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
