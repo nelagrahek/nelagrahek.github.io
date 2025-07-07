@@ -1,5 +1,5 @@
 ---
-title: Zakažite sesiju
+title: 
 layout: page
 image: assets/images/pic17.jpg
 nav-menu: true
@@ -16,4 +16,4 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Ukoliko ste zainteresovani da istražite sistemsku porodičnu terapiju i ekspresivnu art terapiju, slobodno me kontaktirajte putem mejla.</p>
+<p></p>
