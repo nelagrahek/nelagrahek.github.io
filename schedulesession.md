@@ -3,6 +3,7 @@ title: Zakažite sesiju
 layout: page
 image: assets/images/pic17.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
