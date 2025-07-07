@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Sistemsko porodično savetovanje'
+landing-title: 'Porodično savetovanje'
 description: null
 image: null
 author: null
