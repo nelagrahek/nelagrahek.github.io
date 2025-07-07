@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: O meni
 image: assets/slike/pic11.jpg
 nav-menu: true
 ---
@@ -16,10 +16,10 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Family counselor and expressive arts therapy practitioner</p>
+<p>Porodična savetnica i psihoterapeut pod supervizijom</p>
 
-<p>Hi! I am Nela Grahek, a family counselor working from an integrative perspective, that draws upon various modalities to support people navigating emotional challenges. The systemic approach I use, explores family and social frameworks that shape us. Considering the context in which an individual lives, I try to identify recurring themes, narratives and power dynamics that can cause internal and external conflicts. 
-In addition to the systemic approach, I have found my place in creative therapeutic methods that incorporate metaphors and visual arts. I completed my education in Expressive Arts Therapy (EARTH) as a certified practitioner and offer workshops and individual sessions that invite people to explore their own creativity and work through emotional or creative blockages. Methods of expressive arts therapy offer a sense of freedom that allows me to engage both my own creativity and support others in accessing theirs. For me, the arts have been a source of emotional insight and inner strength. Whether through painting, storytelling or movement — they’ve offered a way to make sense of complex feelings and heal old emotional wounds. 
+<p>Sistemski pristup istražuje porodične i društvene okvire u kojima smo odrasli. Uzimajući u obzir kontekst u kome pojedinac živi, trudim se da identifikujem ponavljajuće teme, narative i dinamiku moći koja može uzrokovati unutrašnje i spoljašnje konflikte. Takođe, u radu koristim postavke geštalt i art psihoterapije, usmeravajući se na osećanja i reakcije koje klijent donosi sa sobom u prostor i prateći ono što se dešava ,,ovde i sada”. Kroz istraživanje porodične dinamike, empatiju i kreativnost, u terapijskom procesu učimo da ostvarimo autentičan kontakt sa sobom i drugima.
+ 
 </p>
 
 <!-- Image -->
