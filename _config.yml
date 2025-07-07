@@ -3,7 +3,7 @@ title:
 subtitle: 
 email: nelagrahek@gmail.com
 description: porodično savetovanje <br> art terapija <br /> 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://nelagrahek.github.io"
 author:
 city: 
