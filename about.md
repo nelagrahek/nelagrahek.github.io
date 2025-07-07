@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O meni
-image: assets/slike/pic11.jpg
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
