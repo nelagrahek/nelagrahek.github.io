@@ -3,8 +3,8 @@ title:
 subtitle: 
 email: nelagrahek@gmail.com
 description: porodično savetovanje <br> art terapija <br /> 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nelagrahek.github.io"
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://www.nelagrahek.github.io"
 author:
 city: 
 country: 
@@ -12,7 +12,7 @@ country:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 3
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
