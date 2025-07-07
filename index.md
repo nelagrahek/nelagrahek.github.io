@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Art & Counseling'
+landing-title: 'Sistemsko porodično savetovanje'
 description: null
 image: null
 author: null
