@@ -16,4 +16,4 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Ukoliko ste zainteresovani da istražite sistemsku porodičnu terapiju i ekspresivnu art terapiju, slobodno me kontaktirajte putem mejla</p>
+<p>Ukoliko ste zainteresovani da istražite sistemsku porodičnu terapiju i ekspresivnu art terapiju, slobodno me kontaktirajte putem mejla.</p>
