@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Schedule a session</h1>
+			<h1></h1>
 		</header>
 
 <!-- Content -->
